@@ -7,14 +7,16 @@
 Here are some ideas to get you started:
 
 - 💻 Experiência em montagem de computadores, HTML, CSS e Linux. Habilidades rápidas no aprendizado de IDEs e experiência com ferramentas de IA. Atualmente, focado em Python, Django e bancos de dados. Ansioso para contribuir em projetos inovadores!
----  
+
 <div>
 <a href="https://www.linkedin.com/in/angelo-requenha/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
----  
+</div>  
+
 ## Estou aprendendo  
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" loading="lazy" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" loading="lazy" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" loading="lazy" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" loading="lazy" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" loading="lazy" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" loading="lazy" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" loading="lazy" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" loading="lazy" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" loading="lazy" width="40" height="40" />  
----  
+</div>
+
 
 <div>
 <a href="https://github.com/Angelo-Requenha">
