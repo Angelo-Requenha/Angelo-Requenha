@@ -1,4 +1,4 @@
-👋 # Ola, bem vindo ao meu perfil
+# 👋 Ola, bem vindo ao meu perfil
 ## Meu nome é Angelo Requenha
 
 Here are some ideas to get you started:
