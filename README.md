@@ -1,8 +1,12 @@
 # Olá, eu sou Angelo Miguel Requenha
 
+Contato: angelorequenha@gmail.com
+
+---
+
 Sou estudante de Ciência da Computação na Universidade do Vale do Itajaí (UNIVALI), campus Itajaí, atualmente no 4º semestre do período noturno. Tenho interesse em desenvolvimento backend, infraestrutura de redes, sistemas e ambientes Linux.
 
-Participei do programa estadual de capacitação em tecnologia **Entra21**, uma iniciativa de formação profissional voltada à qualificação de desenvolvedores para o mercado de tecnologia em Santa Catarina. No meu caso, realizei o programa entre 2023 e 2024, com duração de um semestre, com foco em desenvolvimento backend utilizando **Python com Django**, onde tive contato com fundamentos de desenvolvimento web, APIs e boas práticas de programação.
+Participei do programa estadual de capacitação em tecnologia **Entra21**, uma iniciativa de formação profissional voltada à qualificação de desenvolvedores para o mercado de tecnologia em Santa Catarina. Realizei o programa entre 2023 e 2024, com duração de um semestre, com foco em desenvolvimento backend utilizando **Python com Django**, onde tive contato com fundamentos de desenvolvimento web, APIs e boas práticas de programação.
 
 Atualmente estudo desenvolvimento de APIs backend com C# e ASP.NET Core, além de utilizar Python em projetos pessoais e estudos. Na faculdade, utilizo C++ nas disciplinas de programação e também possuo uma breve noção de Java.
 
