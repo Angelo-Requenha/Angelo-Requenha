@@ -2,22 +2,24 @@
 
 Sou estudante de Ciência da Computação na Universidade do Vale do Itajaí (UNIVALI), campus Itajaí, atualmente no 4º semestre do período noturno. Tenho interesse em desenvolvimento backend, infraestrutura de redes, sistemas e ambientes Linux.
 
+Participei do programa estadual de capacitação em tecnologia **Entra21**, uma iniciativa de formação profissional voltada à qualificação de desenvolvedores para o mercado de tecnologia em Santa Catarina. No meu caso, realizei o programa entre 2023 e 2024, com duração de um semestre, com foco em desenvolvimento backend utilizando **Python com Django**, onde tive contato com fundamentos de desenvolvimento web, APIs e boas práticas de programação.
+
 Atualmente estudo desenvolvimento de APIs backend com C# e ASP.NET Core, além de utilizar Python em projetos pessoais e estudos. Na faculdade, utilizo C++ nas disciplinas de programação e também possuo uma breve noção de Java.
 
 Ainda não possuo experiência profissional na área de desenvolvimento de software, porém tenho experiência profissional com suporte técnico presencial (field support/on-site support), atuando diretamente em empresas clientes com:
 
-* suporte ao usuário
-* manutenção e montagem de computadores desktop e notebook
-* infraestrutura de redes
+* Suporte ao usuário
+* Manutenção e montagem de computadores desktop e notebook
+* Infraestrutura de redes
 
 Também mantenho um homelab utilizando Proxmox, onde realizo testes com:
 
-* distribuições Linux
-* containers
-* virtualização
-* servidores locais e públicos de jogos
-* configuração de NAT e abertura de portas
-* estudos relacionados a Docker
+* Distribuições Linux
+* Containers
+* Virtualização
+* Servidores locais e públicos de jogos
+* Configuração de NAT e abertura de portas
+* Estudos relacionados a Docker
 
 ## Tecnologias e áreas de estudo
 
@@ -53,6 +55,7 @@ Atualmente estou cursando:
 * Programação Web
 * Engenharia de Software
 * Banco de Dados
+
 
 Utilizo este perfil para publicar projetos de estudo, experimentos e aplicações desenvolvidas.
 
