@@ -1,19 +1,84 @@
-# 👋 Ola, bem vindo ao meu perfil
-## Meu nome é Angelo Requenha
+# Olá, eu sou Angelo Miguel Requenha
 
-Here are some ideas to get you started:
+Sou estudante de Ciência da Computação na Universidade do Vale do Itajaí (UNIVALI), campus Itajaí, atualmente no 4º semestre do período noturno. Tenho interesse em desenvolvimento backend, infraestrutura de redes, sistemas e ambientes Linux.
 
-- 💻 Experiência em montagem de computadores, HTML, CSS e Linux. Habilidades rápidas no aprendizado de IDEs e experiência com ferramentas de IA. Atualmente, focado em Python, Django e bancos de dados. Ansioso para contribuir em projetos inovadores!
+Atualmente estudo desenvolvimento de APIs backend com C# e ASP.NET Core, além de utilizar Python em projetos pessoais e estudos. Na faculdade, utilizo C++ nas disciplinas de programação e também possuo uma breve noção de Java.
+
+Ainda não possuo experiência profissional na área de desenvolvimento de software, porém tenho experiência profissional com suporte técnico presencial (field support/on-site support), atuando diretamente em empresas clientes com:
+
+* suporte ao usuário
+* manutenção e montagem de computadores desktop e notebook
+* infraestrutura de redes
+
+Também mantenho um homelab utilizando Proxmox, onde realizo testes com:
+
+* distribuições Linux
+* containers
+* virtualização
+* servidores locais e públicos de jogos
+* configuração de NAT e abertura de portas
+* estudos relacionados a Docker
+
+## Tecnologias e áreas de estudo
+
+* Python
+* C#
+* ASP.NET Core
+* C++
+* Java (básico)
+* Docker
+* Linux
+* Redes
+* Proxmox
+
+## Disciplinas e estudos acadêmicos
+
+Durante a graduação, já cursei disciplinas como:
+
+* Algoritmos e Programação I
+* Algoritmos e Programação II
+* Estrutura de Dados
+* Programação Orientada a Objetos
+* Paradigmas de Programação
+* Circuitos Digitais
+* Arquitetura e Organização de Processadores
+* Álgebra Linear e Geometria Analítica
+* Cálculo I
+* Matemática Computacional
+* entre outras
+
+Atualmente estou cursando:
+
+* Arquitetura e Organização de Computadores
+* Programação Web
+* Engenharia de Software
+* Banco de Dados
+
+Utilizo este perfil para publicar projetos de estudo, experimentos e aplicações desenvolvidas.
 
 <div>
 <a href="https://www.linkedin.com/in/angelo-requenha/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>  
 
-## Estou aprendendo  
-<div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" loading="lazy" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" loading="lazy" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" loading="lazy" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" loading="lazy" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" loading="lazy" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" loading="lazy" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" loading="lazy" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" loading="lazy" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" loading="lazy" width="40" height="40" />  
-</div>
+## Atualmente estudando e utilizando
 
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" loading="lazy" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" loading="lazy" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" loading="lazy" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" loading="lazy" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" loading="lazy" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" loading="lazy" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" loading="lazy" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" loading="lazy" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" loading="lazy" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" loading="lazy" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" loading="lazy" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" loading="lazy" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" loading="lazy" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" loading="lazy" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" loading="lazy" width="40" height="40" />
+</div>
 
 <div>
 <a href="https://github.com/Angelo-Requenha">
