@@ -62,7 +62,7 @@ Utilizo este perfil para publicar projetos de estudo, experimentos e aplicaçõe
 
 ## Tecnologias
 
-<div>
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" loading="lazy" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" loading="lazy" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" loading="lazy" width="40" height="40" />
@@ -79,6 +79,7 @@ Utilizo este perfil para publicar projetos de estudo, experimentos e aplicaçõe
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" loading="lazy" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" loading="lazy" width="40" height="40" />
 </div>
+
 ---
 
 <div align="center">
