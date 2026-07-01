@@ -98,4 +98,7 @@ Utilizo este perfil para publicar projetos de estudo, experimentos e aplicaçõe
     height="180em"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Angelo-Requenha&layout=compact&theme=dracula"
   />
+  <img
+    height="180em"
+    src="https://github-readme-stats-jaopdc11s-projects.vercel.app/api?username=angelo-requenha&theme=dracula&show_icons=true&hide_border=true&v=2"
 </div>
